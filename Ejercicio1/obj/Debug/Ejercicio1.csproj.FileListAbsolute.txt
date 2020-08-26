@@ -1,0 +1,7 @@
+C:\Users\matii\Desktop\PROYECTOS\C#\Practicas facultad\Guia Facultad\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\matii\Desktop\PROYECTOS\C#\Practicas facultad\Guia Facultad\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\matii\Desktop\PROYECTOS\C#\Practicas facultad\Guia Facultad\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Practicas facultad\Guia Facultad\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\matii\Desktop\PROYECTOS\C#\Practicas facultad\Guia Facultad\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\matii\Desktop\PROYECTOS\C#\Practicas facultad\Guia Facultad\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\matii\Desktop\PROYECTOS\C#\Practicas facultad\Guia Facultad\Ejercicio1\obj\Debug\Ejercicio1.pdb

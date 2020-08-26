@@ -1,0 +1,7 @@
+C:\Users\matii\Desktop\PROYECTOS\C#\Practicas facultad\Guia Facultad\Ejercicio 16\bin\Debug\Ejercicio 16.exe.config
+C:\Users\matii\Desktop\PROYECTOS\C#\Practicas facultad\Guia Facultad\Ejercicio 16\bin\Debug\Ejercicio 16.exe
+C:\Users\matii\Desktop\PROYECTOS\C#\Practicas facultad\Guia Facultad\Ejercicio 16\bin\Debug\Ejercicio 16.pdb
+C:\Users\matii\Desktop\PROYECTOS\C#\Practicas facultad\Guia Facultad\Ejercicio 16\obj\Debug\Ejercicio16.csprojAssemblyReference.cache
+C:\Users\matii\Desktop\PROYECTOS\C#\Practicas facultad\Guia Facultad\Ejercicio 16\obj\Debug\Ejercicio16.csproj.CoreCompileInputs.cache
+C:\Users\matii\Desktop\PROYECTOS\C#\Practicas facultad\Guia Facultad\Ejercicio 16\obj\Debug\Ejercicio 16.exe
+C:\Users\matii\Desktop\PROYECTOS\C#\Practicas facultad\Guia Facultad\Ejercicio 16\obj\Debug\Ejercicio 16.pdb
